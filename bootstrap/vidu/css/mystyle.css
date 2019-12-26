@@ -1,0 +1,19 @@
+#menu{
+	margin-bottom: 50px;
+}
+#dan{
+	background-image: linear-gradient(to right,#74b3e6,#1d5699);
+}
+#dan li a{
+	color: #ffffff;
+	border-right: 1px #ffffff solid;
+}
+#dan li a:hover{
+	background-color: black;
+}.conternai{
+	margin: auto;
+	width: 1000px;
+}
+.a1{
+	margin-top: 20px;
+}
